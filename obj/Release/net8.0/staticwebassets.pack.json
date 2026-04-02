@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\EMRSimulationWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EMRSimulationWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\Datepicker\\AUTHORS.txt"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Datepicker\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Datepicker\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Datepicker\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\Datepicker\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Datepicker\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\braden.css",
+      "PackagePath": "staticwebassets\\css\\braden.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\foodintake.css",
+      "PackagePath": "staticwebassets\\css\\foodintake.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\riskman-add.css",
+      "PackagePath": "staticwebassets\\css\\riskman-add.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\riskman-print.css",
+      "PackagePath": "staticwebassets\\css\\riskman-print.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\Addsscore.png",
+      "PackagePath": "staticwebassets\\images\\Addsscore.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\EMR-Login.png",
+      "PackagePath": "staticwebassets\\images\\EMR-Login.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\Federation_Uni_Logo_Blue-2024_CMYK.jpg",
+      "PackagePath": "staticwebassets\\images\\Federation_Uni_Logo_Blue-2024_CMYK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\flag.png",
+      "PackagePath": "staticwebassets\\images\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\frat_intervention_reference.jpg",
+      "PackagePath": "staticwebassets\\images\\frat_intervention_reference.jpg"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\monitor.png",
+      "PackagePath": "staticwebassets\\images\\monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\profileIcon.png",
+      "PackagePath": "staticwebassets\\images\\profileIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\images\\unilogo.png",
+      "PackagePath": "staticwebassets\\images\\unilogo.png"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\edekker\\Downloads\\EMR-FEDUNI-main _Final\\EMR-FEDUNI-main\\EMR-FEDUNI-main\\EMRSimulationWebApp\\EMRSimulationWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EMRSimulationWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EMRSimulationWebApp.props",
+      "PackagePath": "build\\EMRSimulationWebApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EMRSimulationWebApp.props",
+      "PackagePath": "buildMultiTargeting\\EMRSimulationWebApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EMRSimulationWebApp.props",
+      "PackagePath": "buildTransitive\\EMRSimulationWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
