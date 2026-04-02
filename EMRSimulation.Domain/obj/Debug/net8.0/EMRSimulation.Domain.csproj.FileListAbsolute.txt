@@ -1,0 +1,33 @@
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.deps.json
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfoInputs.cache
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfo.cs
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\refint\EMRSimulation.Domain.dll
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\shale\Downloads\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\ref\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.deps.json
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfoInputs.cache
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfo.cs
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\refint\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\dndli\Downloads\EMR-FEDUNI-main (2).zip\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\ref\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.deps.json
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfoInputs.cache
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfo.cs
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\refint\EMRSimulation.Domain.dll
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.pdb
+C:\Users\dndli\Downloads\EMR-FEDUNI-main _Final\EMR-FEDUNI-main\EMR-FEDUNI-main\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\ref\EMRSimulation.Domain.dll
