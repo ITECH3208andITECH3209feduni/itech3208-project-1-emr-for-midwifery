@@ -1,0 +1,10 @@
+Student:
+lab123
+lab123
+
+Supervisor:
+super
+super
+
+To run:
+Unzip, In the root folder, go to EMRSimulationWebApp, Then the EMRSimulationWebApp layer, Open the EMRSimulationWebApp.sln file with Visual studio 2022, ensuring you have NET8.0 Framework installed on device. Then click the green run arrow at the top of visual studio
